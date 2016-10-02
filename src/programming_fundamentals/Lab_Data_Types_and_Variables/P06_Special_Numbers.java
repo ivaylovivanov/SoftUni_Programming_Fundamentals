@@ -38,7 +38,6 @@ public class P06_Special_Numbers {
             } else {
                 System.out.println(" -> False");
             }
-        }
-        
+        }        
     }
 }
