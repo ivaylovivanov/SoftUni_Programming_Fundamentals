@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author There Be Dragons
  */
-public class P05_Numbers_in_Reversed_Order {
+    public class P05_Numbers_in_Reversed_Order {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String number = sc.next();

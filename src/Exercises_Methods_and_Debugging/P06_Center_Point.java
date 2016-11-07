@@ -35,7 +35,7 @@ public class P06_Center_Point {
         }
     }
     
-    static String ProperFormat(double num){
+    public static String ProperFormat(double num){
         String n = "";
 
         if (num - (double)(int)num != 0.0) {
